@@ -30,29 +30,3 @@ D: Toim
 Z: Psh
 X: Tic
 C: Tom
-
-Estrutura do Projeto
-
-bateria-virtual-nathy/
-│
-├── css/
-│   ├── estilos.css      # Estilos personalizados
-│   └── reset.css        # Reset básico de CSS
-│
-├── images/
-│   └── bateria.png      # Ícone do projeto
-│
-├── sounds/
-│   ├── keyq.wav         # Som do botão Pom
-│   ├── keyw.wav         # Som do botão Clap
-│   ├── keye.wav         # Som do botão Tim
-│   ├── keya.wav         # Som do botão Puff
-│   ├── keys.wav         # Som do botão Splash
-│   ├── keyd.wav         # Som do botão Toim
-│   ├── keyz.wav         # Som do botão Psh
-│   ├── keyx.wav         # Som do botão Tic
-│   └── keyc.wav         # Som do botão Tom
-│
-├── index.html           # Estrutura principal da aplicação
-├── main.js              # Lógica JavaScript da aplicação
-└── README.md            # Documentação do projeto
